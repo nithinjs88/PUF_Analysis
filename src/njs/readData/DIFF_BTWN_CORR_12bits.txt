@@ -1,0 +1,81 @@
+Last Bits: 12
+Device ID : 207
+Max Corn Same Dev: 0.999999962504117,Avg Of Max Corr Different Dev: 0.9477037950756468,Diff In Corn: 0.05229616742847021
+Device ID : 217
+Max Corn Same Dev: 0.9999998067376402,Avg Of Max Corr Different Dev: 0.8856806128898269,Diff In Corn: 0.1143191938478133
+Device ID : 242
+Max Corn Same Dev: 0.9999999723956545,Avg Of Max Corr Different Dev: 0.9560195721167617,Diff In Corn: 0.04398040027889283
+Device ID : 243
+Max Corn Same Dev: 0.9999997290407832,Avg Of Max Corr Different Dev: 0.9272397115677261,Diff In Corn: 0.07276001747305705
+Device ID : 246
+Max Corn Same Dev: 0.9999999640425833,Avg Of Max Corr Different Dev: 0.9417161300333051,Diff In Corn: 0.05828383400927817
+Device ID : 254
+Max Corn Same Dev: 0.9999996284616213,Avg Of Max Corr Different Dev: 0.954239086124747,Diff In Corn: 0.04576054233687432
+
+========================================================================================================
+----------Same Device----------------
+Max Pearson Corr 
+Device: 207
+Max Pearson Corr: 0.999999962504117,Try 1: 10,Try 2:39,Shift:0
+Max Pearson Corr 
+Device: 217
+Max Pearson Corr: 0.9999998067376402,Try 1: 42,Try 2:51,Shift:0
+Max Pearson Corr 
+Device: 242
+Max Pearson Corr: 0.9999999723956545,Try 1: 8,Try 2:92,Shift:0
+Max Pearson Corr 
+Device: 243
+Max Pearson Corr: 0.9999997290407832,Try 1: 34,Try 2:68,Shift:0
+Max Pearson Corr 
+Device: 246
+Max Pearson Corr: 0.9999999640425833,Try 1: 70,Try 2:99,Shift:0
+Max Pearson Corr 
+Device: 254
+Max Pearson Corr: 0.9999996284616213,Try 1: 3,Try 2:27,Shift:0
+
+----------Diff Devices----------------
+Max Pearson Corr 
+Device 1: 207, Device 2: 217
+Max Pearson Corr: 0.8683853009463446,Try 1: 31,Try 2:48,Shift:-1
+Max Pearson Corr 
+Device 1: 207, Device 2: 242
+Max Pearson Corr: 0.9853965159150334,Try 1: 45,Try 2:70,Shift:-1
+Max Pearson Corr 
+Device 1: 207, Device 2: 243
+Max Pearson Corr: 0.9832288814850146,Try 1: 49,Try 2:92,Shift:0
+Max Pearson Corr 
+Device 1: 207, Device 2: 246
+Max Pearson Corr: 0.9333054912024514,Try 1: 5,Try 2:51,Shift:0
+Max Pearson Corr 
+Device 1: 207, Device 2: 254
+Max Pearson Corr: 0.9682027858293898,Try 1: 15,Try 2:100,Shift:0
+Max Pearson Corr 
+Device 1: 217, Device 2: 242
+Max Pearson Corr: 0.8793059810479271,Try 1: 3,Try 2:61,Shift:0
+Max Pearson Corr 
+Device 1: 217, Device 2: 243
+Max Pearson Corr: 0.8758431118576772,Try 1: 35,Try 2:60,Shift:2
+Max Pearson Corr 
+Device 1: 217, Device 2: 246
+Max Pearson Corr: 0.9155450058506065,Try 1: 52,Try 2:52,Shift:0
+Max Pearson Corr 
+Device 1: 217, Device 2: 254
+Max Pearson Corr: 0.8893236647465795,Try 1: 51,Try 2:77,Shift:0
+Max Pearson Corr 
+Device 1: 242, Device 2: 243
+Max Pearson Corr: 0.9427767770362612,Try 1: 49,Try 2:76,Shift:1
+Max Pearson Corr 
+Device 1: 242, Device 2: 246
+Max Pearson Corr: 0.9726315673595635,Try 1: 37,Try 2:51,Shift:0
+Max Pearson Corr 
+Device 1: 242, Device 2: 254
+Max Pearson Corr: 0.999987019225023,Try 1: 37,Try 2:39,Shift:0
+Max Pearson Corr 
+Device 1: 243, Device 2: 246
+Max Pearson Corr: 0.9038832061954196,Try 1: 6,Try 2:51,Shift:-1
+Max Pearson Corr 
+Device 1: 243, Device 2: 254
+Max Pearson Corr: 0.9304665812642576,Try 1: 44,Try 2:100,Shift:1
+Max Pearson Corr 
+Device 1: 246, Device 2: 254
+Max Pearson Corr: 0.9832153795584843,Try 1: 67,Try 2:94,Shift:1

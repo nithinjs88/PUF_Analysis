@@ -1,0 +1,5 @@
+#No of Last Bits
+4
+#Calculate inter ham distance mean and standard deviation for all devices corresponding to each try.
+#So ith value in a file is mean/SD of inter hamming distance for ith try
+HAM_ITR_ALL_DEV interHD_Mean_4bits.txt interHD_SD_4bits.txt
